@@ -1,6 +1,6 @@
 import threading
 
-def sum(name, value):
+def sum(name , value):
     for i in range(0,value):
         print(f"{name} : {i}")
 
